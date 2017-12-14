@@ -1,6 +1,6 @@
 const greeting = "Hello, everybody!";
 
-var specialGuest = "Neil deGrasse Tyson"
+const specialGuest = "Hello, ${specialGuest}!"
 
 var greetSpecialGuest = "" + specialGuest + "!";
 
