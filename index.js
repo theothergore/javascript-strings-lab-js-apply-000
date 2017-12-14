@@ -1,8 +1,8 @@
 const greeting = "Hello, everybody!";
 
-const specialGuest = "Hello, Neil deGrasse Tyson!";
+const specialGuest = "Neil deGrasse Tyson!";
 
-const greetSpecialGuest = "" + specialGuest + "!";
+const greetSpecialGuest = "`Hello" + specialGuest + "!";
 
 var topic = "space";
 
