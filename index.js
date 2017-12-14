@@ -1,4 +1,4 @@
-var greeting = "";
+const greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
